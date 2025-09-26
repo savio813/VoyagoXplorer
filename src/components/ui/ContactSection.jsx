@@ -94,7 +94,7 @@ const ContactSection = () => {
           {/* Enquiry Form */}
           <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-6 sm:p-8 border border-white/20">
             <h3 className="text-xl sm:text-2xl font-bold text-white mb-4 sm:mb-6">Quick Enquiry</h3>
-            <div className="space-y-4 sm:space-y-6">
+            {/* <div className="space-y-4 sm:space-y-6">
               <div>
                 <input
                   type="text"
@@ -161,7 +161,8 @@ const ContactSection = () => {
               >
                 Submit Enquiry
               </button>
-            </div>
+            </div> */}
+            <div> <h3>Comming Soon</h3></div>
           </div>
         </div>
       </div>
